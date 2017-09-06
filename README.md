@@ -4,7 +4,7 @@ This repository contains a (hopefully growing) set of algorithms to analyze mult
 
 ## NEE 2017
 
-This is a collection of R code and of Matlab functions used to analyze the networks in the publication: *The Multilayer Nature of Ecological Networks*. Predominantly this is for the analysis of community detection (modularity). But also there is code for robustness analysis and reducibility. If you want to replicate the results in the paper you should use the code with the data set in the folder **Data**
+This is a collection of R code and of Matlab functions used to analyze the networks in the publication: *[The Multilayer Nature of Ecological Networks](https://www.nature.com/articles/s41559-017-0101)*. Predominantly this is for the analysis of community detection (modularity). But also there is code for robustness analysis and reducibility. If you want to replicate the results in the paper you should use the code with the data set in the folder **Data**
 
 Please read the original paper **AND IT'S SUPPLEMENTARY INFORMATION** for details on what these functions do. Also, each code has a detailed description but if you need more details or get stuck please open an issue. This will also help others.
 
