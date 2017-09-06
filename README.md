@@ -2,7 +2,7 @@
 
 This repository contains a (hopefully growing) set of algorithms to analyze multilayer ecological networks.
 
-## NEE 2017 / Modularity
+## NEE 2017
 
 This is a collection of R code and of Matlab functions used to analyze the networks in the publication: *The Multilayer Nature of Ecological Networks*. Predominantly this is for the analysis of community detection (modularity). But also there is code for robustness analysis.
 
